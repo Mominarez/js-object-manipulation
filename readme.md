@@ -5,7 +5,7 @@ This project processes a list of sculptures and calculates the length of each st
 ## Sculpture List Lengths Output  
 
 After running **sculptureScript.js**, the resulting **sculptureListLengths** object is:  
-[
+[ <br>
   { name: 26, artist: 20, description: 198, url: 31, alt: 90 }, <br>
   { name: 17, artist: 16, description: 188, url: 32, alt: 91 }, <br>
   { name: 16, artist: 19, description: 272, url: 31, alt: 98 }, <br>
