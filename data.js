@@ -1,3 +1,4 @@
+//given dataset
 const sculptureList = [{
     name: 'Homenaje a la Neurocirugía',
     artist: 'Marta Colvin Andrade',
